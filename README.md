@@ -1,4 +1,4 @@
-## P1: Movie Trailer WebsiteProject Submission
+## P1: Movie Trailer Website Project Submission
 
 ####Submission by Dishan Rajapaksha
 ####dsr931108@gmail.com
