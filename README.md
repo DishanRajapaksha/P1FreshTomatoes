@@ -1,7 +1,6 @@
 ## P1: Movie Trailer Website Project Submission
 
 ####Submission by Dishan Rajapaksha
-####dsr931108@gmail.com
 
 ###Project Description
 This project shows already added details of movies by creating a html page on execution
