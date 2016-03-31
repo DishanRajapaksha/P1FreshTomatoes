@@ -20,8 +20,8 @@ class Video:
     # Function to show the trailer
     def showTrailer(self):
         """
-        Opens a new web browser window with the link given for the video trailer
-        Needs webbrowser import to work
+        Opens a new web browser window with the link given for the video
+        trailer Needs webbrowser import to work
         """
         webbrowser.open(self.movieTrailer)
 
